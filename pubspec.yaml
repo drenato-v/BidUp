@@ -1,5 +1,5 @@
 name: bidup
-description: "A new Flutter project named BidUp."
+description: "App de leilões em Flutter para anunciar itens, dar lances em tempo real e acompanhar cada disputa até o encerramento."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

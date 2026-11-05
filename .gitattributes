@@ -1,0 +1,9 @@
+# Pastas de plataforma geradas pelo Flutter (C++, CMake, Swift, Kotlin...).
+# Marcadas como "vendored" para o GitHub não contá-las nas estatísticas de linguagem,
+# assim o repositório aparece como Dart, que é o código de fato escrito no projeto.
+android/** linguist-vendored
+ios/**     linguist-vendored
+linux/**   linguist-vendored
+macos/**   linguist-vendored
+windows/** linguist-vendored
+web/**     linguist-vendored
